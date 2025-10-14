@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IoT and Cloud Networks/Cloud Networking.md",
+                "file": "IoT and Cloud Networks/IoT and Cloud Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Networking"
+              "title": "IoT and Cloud Networks"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IoT and Cloud Networks/Cloud Networking.md",
+                "file": "IoT and Cloud Networks/IoT and Cloud Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cloud Networking"
+              "title": "Backlinks for IoT and Cloud Networks"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IoT and Cloud Networks/Cloud Networking.md",
+                "file": "IoT and Cloud Networks/IoT and Cloud Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cloud Networking"
+              "title": "Outgoing links from IoT and Cloud Networks"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IoT and Cloud Networks/Cloud Networking.md",
+                "file": "IoT and Cloud Networks/IoT and Cloud Networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Networking"
+              "title": "Outline of IoT and Cloud Networks"
             }
           },
           {
@@ -180,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4216f2e470f3d735",
+  "active": "59a333b0bab401ef",
   "lastOpenFiles": [
+    "IoT and Cloud Networks/Cloud Networking.md",
     "OBSIDIAN",
     "IoT and Cloud Networks/Pasted image 20251014161815.png",
     "IoT and Cloud Networks/IoT and Cloud Networks.md",
     "IoT and Cloud Networks/Introduction to Cloud Computing.md",
-    "IoT and Cloud Networks/Cloud Networking.md",
     "IoT and Cloud Networks/00 - Final Exam Presentation.pdf",
     "the exam presentation.md",
     "Welcome.md",
