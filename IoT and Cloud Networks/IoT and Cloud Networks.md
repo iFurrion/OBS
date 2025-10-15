@@ -17,7 +17,7 @@
 - Presentation Skills and Delivery - 20%
 	- Clarity & Confidence
 	- Engagement
-	- Time Management ^555dfb
+	- Time Management 
 - Structure and Organization - %20
 	- Introduction
 	- Logical Flow
