@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59a333b0bab401ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IoT and Cloud Networks/IoT and Cloud Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IoT and Cloud Networks"
-            }
-          },
-          {
-            "id": "dc0c65f974ba3254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IoT and Cloud Networks/IoT and Cloud Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IoT and Cloud Networks"
-            }
-          },
-          {
-            "id": "9b4ace3a4eaabeac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IoT and Cloud Networks/The Compute Spectrum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Compute Spectrum"
-            }
-          },
-          {
-            "id": "5cff0a63f65c7fb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Systems/Embedded Systems Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Embedded Systems Introduction"
-            }
-          },
-          {
             "id": "ad5368b405c6deb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Systems/Embedded Systems Architecture and Design Flow.md",
+                "file": "IoT and Cloud Networks/Cloud Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedded Systems Architecture and Design Flow"
+              "title": "Cloud Networking"
+            }
+          },
+          {
+            "id": "35426a2667a25bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IoT and Cloud Networks/Security in the Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security in the Cloud"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,18 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4216f2e470f3d735",
+  "active": "35426a2667a25bf1",
   "lastOpenFiles": [
-    "Embedded Systems/Embedded Systems Introduction.md",
+    "IoT and Cloud Networks/Pasted image 20251028153955.png",
+    "IoT and Cloud Networks/Security in the Cloud.md",
+    "IoT and Cloud Networks/Pasted image 20251028152153.png",
+    "IoT and Cloud Networks/Pasted image 20251028151637.png",
+    "IoT and Cloud Networks/Pasted image 20251028151529.png",
+    "IoT and Cloud Networks/Cloud Networking.md",
+    "IoT and Cloud Networks/00 - Final Exam Presentation.pdf",
     "Embedded Systems/Embedded Systems Architecture and Design Flow.md",
+    "Embedded Systems/Embedded Systems Introduction.md",
     "IoT and Cloud Networks/Storage on the Cloud.md",
     "IoT and Cloud Networks/The Compute Spectrum.md",
     "IoT and Cloud Networks/IoT and Cloud Networks.md",
-    "IoT and Cloud Networks/00 - Final Exam Presentation.pdf",
     "IoT and Cloud Networks/Pasted image 20251014165614.png",
     "IoT and Cloud Networks/Pasted image 20251014161815.png",
     "Embedded Systems",
-    "IoT and Cloud Networks/Cloud Networking.md",
     "IoT and Cloud Networks/Introduction to Cloud Computing.md",
     "OBSIDIAN",
     "the exam presentation.md",
